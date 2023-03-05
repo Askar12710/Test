@@ -1,1 +1,1 @@
-print("Купите хлеба!")
+print("Hello world!")
